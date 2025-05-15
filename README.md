@@ -73,3 +73,7 @@ This project uses Firebase for authentication, real-time database, and storage. 
 ### Create New Chat
 
 !['imagem'](./images/image4.png)
+
+## Public link:
+
+[https://projeto-db-2.netlify.app](https://projeto-db-2.netlify.app)
